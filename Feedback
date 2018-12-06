@@ -1,0 +1,2 @@
+12.6
+HW5 looks good, you made Q3 look easy, but that was a little tricky. All I would say is that I think you overstated how badly the IBM rng does, the error it produces as compared to the hit or miss MC is much better. Take home message, you can still find good answers in some problems even with a bad rng.
